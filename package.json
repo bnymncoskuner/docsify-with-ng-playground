@@ -1,0 +1,15 @@
+{
+  "name": "ngbox",
+  "version": "1.0.0",
+  "description": "> An awesome project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify": "^4.11.6"
+  }
+}
